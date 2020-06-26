@@ -54,6 +54,8 @@ package com.bst;
         scan.close();
         int height = height(root);
         System.out.println(height);
+        
+        // Comment modified please check it 
     }	
 }
 
